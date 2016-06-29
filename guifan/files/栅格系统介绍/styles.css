@@ -457,8 +457,8 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'.PingFang-SC-Medium', 'PingFang SC Bold', 'PingFang SC';
-  font-weight:700;
+  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
+  font-weight:650;
   font-style:normal;
   font-size:48px;
 }
@@ -468,8 +468,8 @@
   top:1220px;
   width:200px;
   height:67px;
-  font-family:'.PingFang-SC-Medium', 'PingFang SC Bold', 'PingFang SC';
-  font-weight:700;
+  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
+  font-weight:650;
   font-style:normal;
   font-size:48px;
 }
